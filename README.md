@@ -1,7 +1,8 @@
 # Nonbinary Gender Benchmark
 
 Please cite the following paper:
-Wenying Wu, Panagiotis Michalatos, Pavlos Protopapas, and Zheng Yang.2020. Gender Classification and Bias Mitigation in Facial Images. 12th ACM Conference on Web Science (WebSci '20), July 6--10, 2020, Southampton, United Kingdom
+
+Wenying Wu, Panagiotis Michalatos, Pavlos Protopapas, and Zheng Yang. Gender Classification and Bias Mitigation in Facial Images. 12th ACM Conference on Web Science (WebSci '20), July 6--10, 2020, Southampton, United Kingdom
 
 
 Images: https://drive.google.com/file/d/12fPVI2EZfnZsMtmSVGMb1aRkjywGimkE/view?usp=sharing
